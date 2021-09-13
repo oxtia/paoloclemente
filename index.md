@@ -1,15 +1,13 @@
 ## Welcome to Paolo Clemente GitHub Pages 
 
-You can use the [editor on GitHub](https://github.com/oxtia/paoloclemente/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Curriculum
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+xxxxxxxxxxxxx
 
 ```markdown
-Syntax highlighted code block
+xxxxxxxxxxxxxxxxx1
 
 # Header 1
 ## Header 2
@@ -26,12 +24,10 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+xxxxxxxxxxxxx
 
-### Jekyll Themes
+### xxxxxxxxxxxxxxx1
+xxxxxxxxxxxxxxxxxxxxxxx
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oxtia/paoloclemente/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### xxxxxxxxxxxxxx2
+xxxxxxxxxxxxxxxxxxx
